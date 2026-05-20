@@ -105,7 +105,7 @@ source ./.venv/bin/activate
 必要なライブラリなどを一括でインストールします。 以下のコマンドを順に実行してインストールします。
 
 ```
-pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu132
 pip install ipywidgets transformers[torch]
 pip install -r requirements.txt
 ```
