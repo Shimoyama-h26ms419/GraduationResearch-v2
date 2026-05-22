@@ -1,4 +1,5 @@
-# GraduationResearch-v2 [![Static Badge](https://img.shields.io/badge/GitHub-repo-blue?logo=github)](https://github.com/Shimoyama-h26ms419/GraduationResearch-v2) [![Static Badge](https://img.shields.io/badge/Python-v3.14.5-green?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3145/) [![Static Badge](https://img.shields.io/badge/PyTorch-v2.12.0%2Bcu132-orange?logo=pytorch&logoColor=white)](https://pytorch.org/)
+# GraduationResearch-v2
+[![Static Badge](https://img.shields.io/badge/GitHub-repo-blue?logo=github)](https://github.com/Shimoyama-h26ms419/GraduationResearch-v2) [![Static Badge](https://img.shields.io/badge/Python-v3.14.5-green?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3145/) [![Static Badge](https://img.shields.io/badge/PyTorch-v2.12.0%2Bcu132-orange?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 ## 0. TL;DR
 - 学部時代に行った [**卒業研究**](https://github.com/Shimoyama-h22s4059/GR2025) を基に、大学院で発展的に取り組んでいる研究のリポジトリです。
